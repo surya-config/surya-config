@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, how are you? <br><br>😎 I am a Software Engineer with passion for coding<br>🔭 I am working at TIFIN Fintech<br>🗨️ Ask me about React JS or any web and mobile app development related stuff<br>⚡ I'm a Gamer🎮 and a Guitarist 🎸<br>📫 Shoot me an Email or add me on LinkedIn :)
+Hi, how are you? <br><br>😎 I am a Software Engineer with passion for coding<br>🔭 I am working at TIFIN Fintech<br>🗨️ Ask me about React JS, Next JS or any web and mobile app development related stuff<br>⚡ I'm a Gamer🎮 and a Guitarist 🎸<br>📫 Shoot me an Email or add me on LinkedIn :)
 
 
 ## 🌐 Socials:
